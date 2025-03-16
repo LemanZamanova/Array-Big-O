@@ -60,7 +60,7 @@ namespace Array
 
             for (int i = 0; i < num.Length; i++)
             {
-                bool murekkeb = true;
+                bool murekkeb = false;
                 if (num[i] > 1)
                 {
                     if (num[i] == 2)
